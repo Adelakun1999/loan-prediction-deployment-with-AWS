@@ -25,10 +25,7 @@ Loan approval is a critical process for financial institutions, requiring precis
     <ul>
       <li>Pandas , Numpy ( Data Preprocessing) </li>
       <li>Scikit-learn (Model training and evaluation)</li>
-      <li>Fast API (API development)</li>
-      <li>Cloud Platform: AWS (ECR, EC2, etc.)</li>
-      <li>Containerization: Docker</li>
-      <li>Automation: GitHub Actions for CI/CD</li>
+      <li>FastAPI (API development)</li>
     </ul>
   </li>
 </ul>
