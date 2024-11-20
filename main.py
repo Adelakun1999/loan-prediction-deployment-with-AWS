@@ -38,7 +38,7 @@ class LoanPred(BaseModel):
 
 @app.get('/')
 def index():
-    return {'Message' : 'Welcome to Loan Approval Prediction app'}
+    return {'Message' : 'Welcome to Loan Approval Prediction application'}
 
 #defining the function which will make the prediction using the data which the user inputs
 @app.post('/predict')
