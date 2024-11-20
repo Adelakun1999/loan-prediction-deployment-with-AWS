@@ -1,4 +1,4 @@
-# Loan Prediction Deployment with AWS
+# Loan Approval  Prediction Deployment with AWS
 
 This project provides an end-to-end solution for predicting loan approvals using machine learning and deploying the model on Amazon Web Services (AWS). It includes data preprocessing, model training, and deployment steps, ensuring a robust and scalable system
 
